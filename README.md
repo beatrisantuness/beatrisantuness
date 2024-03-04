@@ -55,4 +55,4 @@
   
    <h2> 🐍Commit Snake </h2>
    
-![Snake animation](https://github.com/beatrisantuness/beatrisantuness/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/beatrisantuness)
