@@ -23,8 +23,8 @@
 
  <h2>📈Github Stats</h2>
 <div>                                                                                                       
- ![beatrisantuness's Stats](https://github-readme-stats.vercel.app/api?username=beatrisantuness&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-  ![beatrisantuness's Streak](https://github-readme-streak-stats.herokuapp.com/?user=beatrisantuness&theme=blueberry&hide_border=true)
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=beatrisantuness&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrisantuness&theme=blueberry&hide_border=true"/>  
 </div> 
                                                                                                                    
   Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
