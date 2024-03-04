@@ -10,7 +10,7 @@
 
 - 👩🏻‍💻 Currently studying front-end skills
   
-- Intern at FITec - Fundação para Inovações Tecnológicas
+- 💻 Intern at FITec - Fundação para Inovações Tecnológicas
 
 - 💡Ambassador of Campus Expert from Digital Innovation One Inc.
 
@@ -55,4 +55,4 @@
   
    <h2> 🐍Commit Snake </h2>
    
-![Snake animation](https://github.com/beatrisantuness/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/beatrisantuness/beatrisantuness/blob/output/github-contribution-grid-snake.svg)
